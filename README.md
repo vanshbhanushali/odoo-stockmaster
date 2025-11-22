@@ -24,11 +24,14 @@ StockMaster IMS is a modular Inventory Management System designed to digitize an
 
 2. **Install Dependencies:**:
 
-```sh
+   ```sh
    npm install
+
+
   
 3. **Set Environment Variables: Create a .env.local file in the root directory and add the following**:
-```sh 
+
+```sh
 GEMINI_API_KEY=your_api_key_here
 
 4. **Start the Development Server**:
