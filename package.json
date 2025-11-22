@@ -1,11 +1,9 @@
 {
-  homepage": "https://vanshbhanushali.github.io/odoo-stockmaster",
+  "homepage": "https://vanshbhanushali.github.io/odoo-stockmaster",
   "name": "stockmaster-ims",
   "private": true,
   "version": "0.0.0",
-  "type": "module"
-}
-  
+  "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -20,10 +18,7 @@
     "recharts": "^3.4.1"
   },
   "devDependencies": {
-    "@types/node": "^22.14.0",
-    "@vitejs/plugin-react": "^5.0.0",
     "gh-pages": "^6.3.0",
-    "typescript": "~5.8.2",
     "vite": "^6.2.0"
   }
 }
