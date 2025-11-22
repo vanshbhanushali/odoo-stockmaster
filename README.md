@@ -35,8 +35,8 @@ StockMaster IMS is a modular Inventory Management System designed to digitize an
 GEMINI_API_KEY=your_api_key_here
 
 4. **Start the Development Server**:
-```sh 
-npm ren dev
+   ```sh 
+   npm ren dev
 
 
 5. *Access the Application: Open your browser and navigate to http://localhost:3000.*
