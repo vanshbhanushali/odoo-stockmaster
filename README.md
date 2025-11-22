@@ -40,7 +40,7 @@ StockMaster IMS is a modular Inventory Management System designed to digitize an
    npm ren dev
 
 
-5. *Access the Application: Open your browser and navigate to <http://localhost:3000>.*
+5. Access the Application: Open your browser and navigate to <http://localhost:3000>.
 
 How to Review the Project
 
